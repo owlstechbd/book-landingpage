@@ -1,0 +1,500 @@
+@media  screen and (max-width:980px){
+    .top-header-btn {
+        width: 88%;
+    }
+    .top-details h1 {
+        font-size: 45px;
+       
+    }
+    .navbar-brand {
+        font-size: 23px;
+    }
+    .jarkko-box {
+        height: 510px;
+    }
+    .header-btn a {
+        font-size: 11px;
+        padding: 0px 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .jarkko-middle img {
+        width: 130px;
+    }
+    .jarkko-middle {
+        left: 45px;
+    }
+    .jarkko-btm {
+        margin-top: 0px;
+        padding: 20px 15px;
+    }
+    .jarkko-btm h5 {
+        font-size: 19px;
+    }
+    .jarkko-btm p {
+        font-size: 15px;
+    }
+    .top-info {
+        margin-top: 30px;
+        width: 100%;
+    }
+    .top-img {
+        width: 100%;
+    }
+    .top-info h2{
+        font-size: 32px;
+    }
+    .top-info p{
+        font-size: 14px;
+    }
+    .introduction-btn a {
+        font-size: 14px;
+        padding: 0 15px;
+        padding-top: 6px;
+        padding-bottom: 6px;
+
+    }
+    .introduction-box-info {
+        padding: 11px;
+    }
+    .introduction-box-info h5 {
+        font-size: 18px;
+    }
+    .introduction-box-info p {
+        font-size: 14px;
+    }
+    .skill-box-photo{
+        width: 50%;
+        margin: 0 auto;
+    }
+    .less-mar{
+        margin-top: 0;
+    }
+    .box-title h2{
+        font-size: 35px;
+        margin: 30px 0;
+       text-align: center;
+    }
+    .box-title ul {
+        margin-bottom: 50px;
+    }
+    .connect-all-box {
+        width: 100%;
+    }
+    .connect-all-box h2 {
+        font-size: 43px;
+    }
+    #economy {
+        background-repeat: no-repeat;
+        padding-bottom: 80px;
+    }
+    .destianation-main{
+        padding-bottom: 100px;
+    }
+    #prefer-main {
+        width: 100%;
+    }
+    .navbar-nav{
+        margin-top: 20px;
+    }
+    .nav-item{
+        margin-bottom: 15px;
+    }
+    .nav-item-btn {
+        margin-top: 15px;
+    }
+    .mar-bar-top{
+        margin-top: 35px;
+    }
+    .prefer-info h1 {
+        font-size: 31px;
+    }
+    .prefer-btn{
+        margin-right: 0;
+    }
+    #prefer-main {
+        padding: 50px 0;
+    }
+    #prefer-btm {
+        padding-top: 0px; 
+    }
+    .prefer-info p {
+        font-size: 16px;
+    }
+    #introduction {
+        padding: 0;
+        padding-bottom: 50px;
+    }
+    .connect-box h1 {
+        font-size: 50px;
+    }
+    .connect-box h1 span {
+        font-size: 35px;
+    }
+}
+
+
+
+
+@media  screen and (max-width: 720px){
+    .slider {
+       height: auto;
+       
+    }
+    .top-header-btn {
+        width: 83%;
+    }
+    .top-details{
+        margin-top: 100px;
+    }
+    .top-details h2 {
+        font-size: 38px;
+        font-weight: 600;
+        
+    }
+    .top-about-btn {
+        width: 40%;
+    }
+    .about-left {
+        padding-right: 0px;
+    }
+    #about {
+        padding: 50px 0;
+    }
+    #destianation {
+        padding: 50px 0;
+    }
+    .destianation-main {
+        padding: 50px 0px;
+    }
+    .custom-nav button i {
+        font-size: 20px; 
+    }
+    .custom-nav button i {
+        font-size: 25px;
+    }
+    .top-btn {
+        width: 45%;
+    }
+    .top-btn {
+        width: 45%;
+    }
+    .customers-box-all {
+        margin-top: 35px;
+    }
+    .mar-top{
+        margin-top: 30px;
+    }
+    .mar-bar-top{
+        margin-top: 50px;
+    }
+    #customers {
+        padding: 50px 0;
+    }
+    .profile h5 {
+        font-size: 15px;
+    }
+    .profile p {
+        font-size: 14px;
+    }
+    .contact {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .get-in h4 {
+        font-size: 33px;
+    }
+    .mail-main {
+        display: block;
+    }
+    .mail-left {
+        width: 100%;
+        margin-right: 0px;
+    }
+    .mail-right {
+        width: 100%;
+    }
+    .map-box {
+        right: 50%;
+    }
+    .footer-box img {
+        margin-bottom: 20px;
+    }
+    .top-margin {
+        margin-top: 20px;
+    }
+    .footer-box ul {
+        margin-top: 0px;
+        display: block;
+    }
+    ul {
+        margin-bottom: 0rem;
+        
+    }
+    .last-box {
+        padding-left: 0px;
+    }
+    .footer-in {
+        width: 70%;
+    }
+    .footer-btm-line {
+        display: block;
+    }
+    .footer-btm-line-left{
+        margin-bottom: 20px;
+    }
+    .sub-btn {
+        margin-top: 15px;
+    }
+    .footer-box ul li {
+        margin-bottom: 10px;
+    }
+    .nav-item {
+        padding-left: 10px !important;
+        margin-top: 10px;
+    }
+    .about-left h5 {
+        font-size: 22px;
+    }
+
+
+
+
+    .navbar-brand {
+        font-size: 20px;
+    }
+    .nav-item-btn {
+        margin-left: 10px;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .top-details h1 {
+        font-size: 52px;
+        font-weight: 700;
+        margin-bottom: 10px;
+    }
+    .header-btn a {
+        font-size: 13px;
+        font-weight: 600;
+        padding: 0 14px;
+        padding-top: 8px;
+        padding-bottom: 10px;
+    }
+    .jarkko {
+        width: 100%;
+    }
+    #skill {
+        padding-top: 60px;
+        padding-bottom: 0;
+    }
+    .green-side {
+        height: 239px;
+    }
+    .jarkko-middle {
+        top: 100px;
+        left: 100px;
+    }
+    .jarkko-box {
+        height: 480px;
+    }
+    .top-details p {
+        font-size: 20px;
+
+    }
+    .box-title h2 {
+        font-size: 35px;
+        padding: 30px 0;
+       
+    }
+    .box-title ul {
+     margin-bottom: 50px;
+    }
+    .box-title ul li {
+        display: block;
+        text-align: center;
+    }
+    .jarkko h1{
+        font-size: 35px;
+        margin-bottom: 20px;
+    }
+    #economy {
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 0;
+        padding-top: 60px;
+        padding-bottom: 80px;
+    }
+    .jarkko-box {
+        margin-bottom: 0px; 
+    }
+    .navbar-toggler-icon {
+        color: #C8F31F;
+    }
+    .destianation-top h2 {
+        margin-top: 30px;
+        font-size: 24px;
+    }
+    .destianation-top h2 img {
+        width: 20px;
+    }
+    .top-ber {
+        display: block;
+        margin-top: 30px;
+    }
+    .top-info {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .top-info h2{
+        font-size: 28px;
+    }
+    .prefer {
+        padding: 25px 11px;
+    }
+    .prefer h2 {
+        font-size: 28px;
+       
+    }
+    .prefer P {
+        font-size: 14px;
+       
+    }
+    .prefer-info {
+        width: 100%;
+        margin: 50px 0;
+      
+    }
+    .skill-main{
+        margin-top: 70px;
+    }
+    .introduction-box-info {
+        padding: 30px 15px;
+    }
+    .introduction-btn a {
+        font-size: 15px;
+        padding: 0 20px;
+        padding-top: 5px;
+        padding-bottom: 6px;
+
+    }
+    .top-mar{
+        margin-top: 30px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .connect-all {
+        padding: 30px 20px;
+    }
+    .connect-all-box {
+        width: 100%;
+        text-align: center;
+    }
+    .connect-all-box h2 {
+        font-size: 25px;
+    }
+    .connect-all-box p {
+        font-size: 15px;
+    }
+    .connect-mail {
+        width: 90%;
+        margin: 0 auto;
+    }
+    .flx-rev{
+        flex-direction: column-reverse;
+    }
+    .skill-box-photo {
+        width: 80%;
+        margin: 0 auto;
+    }
+    .mar-bar-top{
+        margin-top: 35px;
+    }
+    #head {
+        width: 100%;
+        height: auto;
+        position: static;
+    }
+    .head-right {
+        width: 100%;
+        height: auto;
+        position:static;
+    }
+    .head-left {
+        width: 100%;
+        
+    }
+    .head-main {
+        width: 100%;
+        display: block;
+    }
+    .hero-img img {
+        position: static;
+    }
+    .slider-logo-all {
+        flex-wrap: wrap;
+        width: 100%;
+        justify-content: center;
+    }
+    .slide-image h2 img{
+       width: 20px;
+    }
+    .slide-image h2{
+       font-size: 20px;
+    }
+    .prefer-info h1 {
+        font-size: 31px;
+    }
+    .prefer-btn{
+        margin-right: 0;
+    }
+    #prefer-main {
+        padding: 50px 0;
+    }
+    #prefer-btm {
+        padding-top: 0px; 
+    }
+    .prefer-info p {
+        font-size: 16px;
+    }
+    .introduction-main{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .connect-box h1 {
+        font-size: 50px;
+        margin-bottom: 0;
+    }
+    .connect-box h1 span {
+        font-size: 38px;
+    }
+    .connect-box p {
+        margin-top: 15px;
+    }
+    .footer-top {
+        display: block;
+        text-align: center;
+    }
+    .footer-box-left{
+        width: 100%;
+    }
+    .footer-box-right{
+        margin-top: 50px;
+        width: 100%;
+    }
+    .footer-left{
+        display: flex;
+        justify-content: center;
+    }
+    #logo-bar {
+        height: auto;
+    }
+    .slide-image{
+        padding: 10px ;
+    }
+    .jarkko p{
+        font-size: 16px;
+    }
+    .arrow-down img {
+        width: 98px;
+    }
+}
